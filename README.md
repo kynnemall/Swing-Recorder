@@ -15,3 +15,5 @@ With this setup I developed a Python GUI to record using the camera presets. If 
 ## To-do list
 - [X] Develop a working Python GUI
 - [ ] Investigate power banks for maximum portability
+- [ ] Add option for snapshot to check camera position with 5 second delay
+- [ ] Add playback option after recording
